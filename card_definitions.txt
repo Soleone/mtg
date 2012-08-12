@@ -1,0 +1,34 @@
+Island
+
+Land - Basic Land
+
+
+
+Serra Angel
+2White3Colorless
+Creature - Angel
+Flying, Vigilance
+4/4
+
+
+
+Lava Axe
+1Red4Colorless
+Sorcery
+Deal 5 to target player
+
+
+
+Nicol Bolas, Planeswalker
+2Black1Red1Blue4Colorless
+Planeswalker - Nicol Bolas
+IMBA SHIT
+6
+
+
+
+Ornithopter
+
+Artifact - Creature
+Flying
+0/0
